@@ -20,7 +20,7 @@ Our study validates the impact of GMM clustering granularity, label-to-anatomy m
 
 ### DataSets
 
-Brain Segmentation: [SynthStrip 2D dataset](https://surfer.nmr.mgh.harvard.edu/docs/synthstrip/)
+Brain Segmentation: [SynthStrip 2D dataset](https://surfer.nmr.mgh.harvard.edu/docs/synthstrip/)  
 Liver Segmentation: [CHAOS CT/MRI dataset](https://chaos.grand-challenge.org/)
   
 ### Methodology
